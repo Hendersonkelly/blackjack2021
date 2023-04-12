@@ -1,0 +1,36 @@
+
+
+.table{
+    background-color: rgb(127, 178, 50);
+    border-radius: 10%;
+    
+    border-style: solid;
+    padding: 20px;
+    margin-top: 25px;
+    align-items: center;
+    justify-self: center;
+    
+ 
+   
+}
+
+.hand{
+    border-color: rgb(166, 221, 83);
+    background-color: rgb(166, 221, 83) ;
+    border-style: solid;
+    width: 500px;
+    height: 125px;
+    
+   
+}
+
+.card{
+    height: 100px;
+    width: 75px;
+    background-color:  rgb(166, 221, 83);
+   flex-wrap: wrap;
+   
+   
+   
+}
+
